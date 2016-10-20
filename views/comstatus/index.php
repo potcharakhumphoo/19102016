@@ -10,6 +10,7 @@ use yii\grid\GridView;
 $this->title = 'สถานะคอมพิวเตอร์';
 $this->params['breadcrumbs'][] = $this->title;
 echo '22222';
+echo '20102016';
 ?>
 <div class="com-status-index">
 
